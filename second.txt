@@ -1,0 +1,1 @@
+This file is creared to under stand the topic of git checkout -- dile name
